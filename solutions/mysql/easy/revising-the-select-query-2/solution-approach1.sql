@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-11-25, 03:05 p.m.
+-- Submitted   2026-11-25, 03:06 p.m.
 -- ──────────────────────────────────────────────────
 
 SELECT NAME FROM CITY WHERE COUNTRYCODE LIKE "USA" AND POPULATION > 120000;
